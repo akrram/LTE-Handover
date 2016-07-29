@@ -1,5 +1,5 @@
-#Akram Albawayah
-#Nikhil Unni
+#Akram B
+#Nikhil U
 #EE 122 SPRING 2016
 
 
