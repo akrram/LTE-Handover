@@ -1,4 +1,4 @@
-# LTE-Handover
+# LTE-Handover and Mobility Prediction 
 
 We have two main classes [class eNB, class UE] that store the information related to both the cellular tower
 and user equipment. The next step involved is creating a reasonable probability transition matrix within a grid
